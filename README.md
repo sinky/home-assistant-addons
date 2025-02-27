@@ -11,3 +11,5 @@ https://github.com/sinky/home-assistant-addons
 
 ## Add-ons in this repository
 
+## License
+MIT https://marco.mit-license.org/
